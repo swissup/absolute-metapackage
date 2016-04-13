@@ -1,0 +1,12 @@
+{
+    "name": "swissup/absolute-metapackage",
+    "description": "Absolute Theme for Magento 2.x",
+    "type": "metapackage",
+    "version": "1.0.0",
+    "license": "OSL-3.0",
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0",
+        "swissup/font-awesome": "0.2.0",
+        "swissup/slick-carousel": "1.0.0"
+    }
+}
