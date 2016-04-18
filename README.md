@@ -1,6 +1,31 @@
 # Absolute Theme for Magento 2
 
 ## Installation
+
+### Get extension sources:
+
+- If you have access to our repositories:
+
+    ```
+    composer config repositories.swissup composer http://swissup.github.io/packages/
+    composer require swissup/absolute-metapackage --prefer-source
+    ```
+
+- Or, if you have archive from our site:
+
+    ```
+    unzip <absolute-theme.zip> -d <magento_root>
+    ```
+
+### Enable modules and run upgrades:
+
+```
+bin/magento module:enable\
+    Swissup_FontAwesome\
+    Swissup_SlickCarousel\
+bin/magento setup:upgrade
+```
+
 ### Setting Up
 * Disable Magento `WYSIWYG` editor in `Stores > Configuration > General > Content Management`
 
