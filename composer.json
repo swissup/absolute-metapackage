@@ -2,13 +2,12 @@
     "name": "swissup/absolute-metapackage",
     "description": "Absolute Theme for Magento 2.x",
     "type": "metapackage",
-    "version": "1.1.3",
+    "version": "1.2.0",
     "license": "OSL-3.0",
     "require": {
-        "swissup/core": "^1.4.7",
         "swissup/theme-frontend-absolute": "^1.1.2",
-        "swissup/font-awesome": "^1.2.1",
-        "swissup/slick-carousel": "^1.1.1",
-        "swissup/theme-editor-swissup-absolute": "^1.0.1"
+        "swissup/module-font-awesome": "^1.3.0",
+        "swissup/module-slick-carousel": "^1.2.0",
+        "swissup/module-theme-editor-swissup-absolute": "^1.1.0"
     }
 }
