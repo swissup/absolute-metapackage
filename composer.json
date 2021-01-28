@@ -5,9 +5,9 @@
     "version": "1.3.7",
     "license": "OSL-3.0",
     "require": {
-        "swissup/theme-frontend-absolute": "^1.3.4",
-        "swissup/module-font-awesome": "^1.4.0",
-        "swissup/module-slick-carousel": "^1.3.2",
-        "swissup/module-theme-editor-swissup-absolute": "^1.2.0"
+        "swissup/theme-frontend-absolute": "^1.3.7",
+        "swissup/module-font-awesome": "^1.4.2",
+        "swissup/module-slick-carousel": "^1.3.3",
+        "swissup/module-theme-editor-swissup-absolute": "^1.3.1"
     }
 }
