@@ -2,7 +2,7 @@
     "name": "swissup/absolute-metapackage",
     "description": "Absolute Theme for Magento 2.x",
     "type": "metapackage",
-    "version": "1.3.7",
+    "version": "1.4.0",
     "license": "OSL-3.0",
     "require": {
         "swissup/theme-frontend-absolute": "^1.3.7",
